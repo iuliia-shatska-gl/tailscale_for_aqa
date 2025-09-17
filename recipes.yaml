@@ -1,6 +1,6 @@
 recipes:
-  tailscale:
-    name: Tailscale
+  tailscale_for_aqa:
+    name: Tailscale_for_AQA
     description: Installs Tailscale and connects to the tailnet using the provided auth key
     versions:
       v1.0:
